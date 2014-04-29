@@ -1,0 +1,13 @@
+PODS:
+  - AHAlertView (0.0.2)
+  - SLCoreDataStack (0.3.2)
+
+DEPENDENCIES:
+  - AHAlertView (~> 0.0.2)
+  - SLCoreDataStack (~> 0.3)
+
+SPEC CHECKSUMS:
+  AHAlertView: 7e27f59e8b6adf659891fecf26de1d71c640ea5d
+  SLCoreDataStack: 06d83c3dc69560f97aa25402f345fb9fd36db9a1
+
+COCOAPODS: 0.29.0

@@ -1,0 +1,3 @@
+platform :ios, '7.0'
+pod 'AHAlertView', '~> 0.0.2'
+pod 'SLCoreDataStack', '~> 0.3'
